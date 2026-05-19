@@ -1,0 +1,15 @@
+{
+	"name": "adfusama1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8aceb27f-967b-45ca-a735-3a9a95e55b66",
+		"tenantId": "e99c3013-0a69-47dd-81f7-bb424755f554"
+	}
+}

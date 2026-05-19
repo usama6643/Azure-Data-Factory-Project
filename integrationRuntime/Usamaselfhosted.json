@@ -1,0 +1,9 @@
+{
+	"name": "Usamaselfhosted",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"selfContainedInteractiveAuthoringEnabled": true
+		}
+	}
+}
